@@ -1078,6 +1078,7 @@ markers:
   - {type: line-break, offset: 3519, content: '', id: KR1d0057_WYG_012-12b02}
   - {type: indent, offset: 3519, content: 　, id: KR1d0057_krp_012-bkkind182}
   - {type: punctuation, offset: 3521, content: (, id: KR1d0057_krp_012-bkkpn1}
+  - {type: voice, offset: 3521, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3522, content: /, id: KR1d0057_krp_012-bkkpn2}
   - {type: punctuation, offset: 3522, content: ), id: KR1d0057_krp_012-bkkpn3}
   - {type: substitution, offset: 3530, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16303}}
@@ -3109,6 +3110,7 @@ markers:
   - {type: line-break, offset: 10195, content: '', id: KR1d0057_WYG_012-34b02}
   - {type: indent, offset: 10195, content: 　, id: KR1d0057_krp_012-bkkind524}
   - {type: punctuation, offset: 10198, content: (, id: KR1d0057_krp_012-bkkpn4}
+  - {type: voice, offset: 10198, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 10200, content: /, id: KR1d0057_krp_012-bkkpn5}
   - {type: punctuation, offset: 10200, content: ), id: KR1d0057_krp_012-bkkpn6}
   - {type: 'kr:newline', offset: 10200, content: '
@@ -3780,6 +3782,7 @@ markers:
   - {type: line-break, offset: 12329, content: '', id: KR1d0057_WYG_012-41b02}
   - {type: indent, offset: 12329, content: 　, id: KR1d0057_krp_012-bkkind635}
   - {type: punctuation, offset: 12329, content: (, id: KR1d0057_krp_012-bkkpn7}
+  - {type: voice, offset: 12329, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 12331, content: /, id: KR1d0057_krp_012-bkkpn8}
   - {type: punctuation, offset: 12331, content: ), id: KR1d0057_krp_012-bkkpn9}
   - {type: 'kr:newline', offset: 12331, content: '
@@ -4113,4 +4116,4 @@ markers:
 
       ', id: KR1d0057_krp_012-bkkkrnewl791}
   back: []
-hash: sha256:236a0f13bd515c17c94cc38ee6b2c353f7dc7477443045142246c85d1bab21ca
+hash: sha256:7dd1f4780b8a4f6efb92b624492a7d7f0dab00e8395af1126eacc2688fd86003
